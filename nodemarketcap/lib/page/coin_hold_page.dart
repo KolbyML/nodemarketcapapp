@@ -72,7 +72,7 @@ class CoinInfo extends StatelessWidget {
             children: <Widget>[
               new Padding(padding: new EdgeInsets.all(20.0),
 
-                child: new Text('$name2' + ' Summery', style: new TextStyle(fontSize: 18.0, fontWeight: FontWeight.bold),),
+                child: new Text('$name2' + ' Summary', style: new TextStyle(fontSize: 18.0, fontWeight: FontWeight.bold),),
               ),
               new Row(
                 children: <Widget>[
